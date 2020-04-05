@@ -2,7 +2,7 @@
 
 Create fake paintings from a data set and a DCGAN model
 
-![Example](output.JPG)
+![Example](output.PNG)
 
 ## How to use it
 
